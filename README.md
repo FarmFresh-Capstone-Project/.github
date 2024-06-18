@@ -1,4 +1,4 @@
-![IMG-20231222-WA0002](https://github.com/DuitDojo-Capstone-Project/.github/assets/126539714/d366de4b-619e-4619-bb77-4d4d7dadf5aa)
+![IMG-20231222-WA0002]([https://github.com/DuitDojo-Capstone-Project/.github/assets/126539714/d366de4b-619e-4619-bb77-4d4d7dadf5aa](https://github.com/FarmFresh-Capstone-Project/.github/blob/main/favicon.png))
 
 # Welcome to FarmFresh Repository
 
