@@ -21,3 +21,9 @@ harga jual gabah kering panen (GKP) turun 4,64% menjadi Rp 4.936 per kilogram pa
 Distribusi yang terbatas dan produksi yang terpengaruh oleh faktor eksternal seperti pembatasan sosial dan serangan hama telah menyebabkan penurunan pendapatan bagi petani. 
 Untuk mengatasi tantangan ini, kami mengembangkan sebuah aplikasi e-commerce berbasis web yang bertujuan untuk meningkatkan akses pasar bagi petani lokal dan meningkatkan 
 efisiensi distribusi.
+
+
+# Checkout our App at
+User Side : 
+Admin Side : 
+Api :
