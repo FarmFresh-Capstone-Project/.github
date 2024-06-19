@@ -9,7 +9,7 @@ Pengembang Front-End Web Dan Back-End
 
 |            Member                   | Student ID  |          Universitas           |
 | :---------------------------------: | :---------: | :---------------------------:  |
-| Esa Faizal Gibra                    | F1526YB390  | Universitas Teknologi Bandung  |
+| Esa Faizal Gibran                   | F1526YB390  | Universitas Teknologi Bandung  |
 | Kiki Lidya Koswara                  | F1526XB089  | Universitas Teknologi Bandung  |
 | Sisi Auliani                        | F2726XA037  | Universitas Muslim Indonesia   |
 
@@ -24,6 +24,6 @@ efisiensi distribusi.
 
 
 # Checkout our App at
-User Side : 
-Admin Side : 
-Api :
+User Side : https://farmfresh-user.vercel.app/
+Admin Side : https://farmfresh-admin.vercel.app/
+Api : https://farmfresh-backend.vercel.app/
